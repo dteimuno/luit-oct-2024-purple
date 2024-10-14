@@ -33,8 +33,8 @@ To get started with this repo, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/zaireali649/luit-oct-2024-purple
+    cd luit-oct-2024-purple
     ```
 
 2. (Optional) Set up a virtual environment:
